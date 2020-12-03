@@ -2,7 +2,7 @@
 page_title                                : c[OFF]line                                # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
@@ -26,7 +26,7 @@ email_address                             : buchbartosz@gmail.com
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : https://github.com/BarTechB/cs50-finalproject
+github_username                           : BarTechB/cs50-finalproject
 youtube_username                          :
 
 
@@ -80,7 +80,7 @@ cover_overlay_transparency                : 0.8
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-body_background_color                     : "#ffffff"
+body_background_color                     : "#C5B6B6"
 
 link_color                                : "#1d63ea"
 
