@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Track and monitor caffeine
     description                           : You can add different coffee types for your intake and the app will track your caffeine intake over the day.
-    fontawesome_icon_name                 : analytics
+    fontawesome_icon_name                 : chart-line
     
   - title                                 : Better sleep
     description                           : It helps you reach your caffeine goal in milligrams before going to bed in order to have a restful sleep.
-    fontawesome_icon_name                 : snooze
+    fontawesome_icon_name                 : bed
 
   - title                                 : Different sensitivity levels
     description                           : You can customize the app by choosing three different sensitivity levels (low, medium, strong).
@@ -88,8 +88,8 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#ffffff"
-feature_text_color                        : "#ffffff"
+feature_title_color                       : "#000000"
+feature_text_color                        : "#000000"
 
 feature_icons_foreground_color            : "#C5B6B6"
 feature_icons_background_color            : "#403632"
