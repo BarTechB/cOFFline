@@ -4,7 +4,10 @@ title: What's New
 include_in_header: true
 ---
 
-### `Initial Release`
+# **Version 1.1**
+
+- In this new update you can save you caffeine intake to Apple Health and see your statistics over time.
+
 # **Version 1.0**
 ## The App:
 cOFFline is an iOS app that lets you track and monitor your caffeine intake. It helps you reach your caffeine goal in milligrams before going to bed in order to have a restful sleep. This app will support you in having and healthy relationship with caffeine. You will be surprised how changing small habits can make a big impact through awareness.
