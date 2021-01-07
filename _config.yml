@@ -57,6 +57,11 @@ features                                  :
   - title                                 : Three languages
     description                           : The app supports german, english and polish language.
     fontawesome_icon_name                 : globe-europe
+   
+  - title                                 : NEW! Apple Health Support
+    description                           : Track your caffeine intake in your Apple Health App and see your statistics over time.
+    fontawesome_icon_name                 : heart 
+    
 
   - title                                 : Dark theme
     description                           : Dark theme is supported!
